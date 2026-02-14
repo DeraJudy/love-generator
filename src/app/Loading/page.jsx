@@ -55,14 +55,12 @@
 
 "use client"
 
-export const dynamic = "force-dynamic"
-
-import { useEffect } from "react"
+import { Suspense, useEffect } from "react"
 import { useRouter, useSearchParams } from "next/navigation"
 import { motion } from "framer-motion"
 import { FaHeart } from "react-icons/fa"
 
-export default function LoadingPage() {
+function LoadingContent() {
   const router = useRouter()
   const searchParams = useSearchParams()
 
@@ -97,5 +95,13 @@ export default function LoadingPage() {
         Writing something magical...
       </p>
     </div>
+  )
+}
+
+export default function LoadingPage() {
+  return (
+    <Suspense fallback={<div className="min-h-screen bg-black" />}>
+      <LoadingContent />
+    </Suspense>
   )
 }
