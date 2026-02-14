@@ -13,7 +13,7 @@ Like waves surrendering to the sea.
 
 Oh {nickname}, you are my quiet miracle,
 The answer before I asked the prayer.
-With you, forever feels too small —
+With you, forever feels too small,
 For love like ours cannot be measured anywhere.`,
 
 `My darling {name}, love found its meaning in you,
@@ -42,12 +42,12 @@ Oh {nickname}, my quiet miracle,
 You turned my doubts into something clear.
 
 If forever were measured in moments,
-I would count only those with you —
+I would count only those with you,
 For love, I learned, has your face,
 And every dream begins where you do.`,
 
 `My darling {name}, love found its language in you,
-Not loud, not reckless — simply true.
+Not loud, not reckless, simply true.
 Like moonlight resting on open seas,
 You move my soul with effortless ease.
 
@@ -63,7 +63,7 @@ And even darkness feels like light.
 
 Oh {nickname}, my sweetest truth,
 My calm within every storm.
-With you, love isn’t something spoken —
+With you, love isn’t something spoken,
 It is something lived and warm.`,
 
 `{name}, your love is quiet thunder,
@@ -83,7 +83,7 @@ The world steadies beneath me.
 
 {name}, you are my answered prayer,
 My sunrise after doubt.
-With you, forever feels simple —
+With you, forever feels simple,
 Like love was never meant to be without.`,
 
 `{name}, your eyes hold galaxies,
@@ -116,14 +116,14 @@ It would feel like your embrace.
 For nowhere else in this vast world,
 Feels more perfectly in place.`,
 
-`{name}, you are not just love —
+`{name}, you are not just love,
 You are the meaning of it.
 Not the spark alone,
 But the quiet fire beneath it.
 
 Oh {nickname}, my chosen always,
 My constant star above.
-With you, forever is not distant —
+With you, forever is not distant,
 It is the present wrapped in love.`,
 
 `{nickname}, your voice feels like music,
@@ -143,12 +143,12 @@ Could make everything feel right.
 
 Oh {nickname}, my heart’s companion,
 My shelter from despair.
-In loving you, I found my strength —
+In loving you, I found my strength,
 In your arms, I found my prayer.`,
 
 `{name}, when I trace the shape of us,
 It looks like destiny drawn in light.
-You and I — two wandering souls —
+You and I, two wandering souls,
 Finally resting where it feels right.
 
 Sweet {nickname}, my quiet forever,
@@ -163,7 +163,7 @@ That feels safe and warm.
 
 {name}, if the world fades to shadow,
 And all I see is dim,
-I would still find my way to you —
+I would still find my way to you,
 Because my heart belongs within.`,
 
 `{name}, you are the gentle gravity
@@ -173,7 +173,7 @@ In your touch, I feel secure.
 
 Oh {nickname}, my sweetest miracle,
 My calm beyond all fear.
-Loving you feels effortless —
+Loving you feels effortless,
 As though you were always here.`,
 
 `{nickname}, your hands fit mine
@@ -223,7 +223,7 @@ Like a promise meant to lead.
 
 {name}, if stars ever fade,
 And night forgets its glow,
-I would still shine beside you —
+I would still shine beside you,
 Because loving you is all I know.`,
 
 `{name}, you are not just the love of my life,
@@ -274,7 +274,7 @@ Yet claim you barely moved an inch, right?
 
 You laugh at jokes that make no sense,
 Trip on air with confidence.
-Oh {nickname}, you're chaos in disguise —
+Oh {nickname}, you're chaos in disguise,
 And I’d still choose you over fries.`,
 
 `Hey {nickname}, you snore like thunder,
@@ -284,7 +284,7 @@ But kiss my forehead perfectly.
 
 {name}, you’re a walking comedy show,
 Half dramatic, full of glow.
-Even your weirdness feels like art —
+Even your weirdness feels like art,
 You’re my favorite strange sweetheart.`,
 
 `{name}, you argue like a tiny lawyer,
@@ -297,14 +297,14 @@ You make wrong feel oddly right.
 If loving you is slightly absurd,
 Then absurd’s the best word.`,
 
-`{nickname}, you dance like nobody’s watching —
+`{nickname}, you dance like nobody’s watching,
 And honestly? Nobody should be.
 But somehow in your awkward twirls,
 You’re still ridiculously cute to me.
 
 {name}, you’re my daily dose of nonsense,
 My professional chaos sponsor.
-Life with you is mildly insane —
+Life with you is mildly insane,
 And I would absolutely do it again.`,
 
 `{name}, you eat my snacks without regret,
@@ -334,12 +334,12 @@ Then steal my food and wink an eye.
 
 Oh {nickname}, emotional storm,
 Wrapped in cuddles warm and warm.
-If love is madness, you’re the proof —
+If love is madness, you’re the proof,
 And I’m happily stuck on this roof.`,
 
 `{nickname}, you fall asleep mid-movie,
 Leave me wide awake and moody.
-You drool slightly — yes, I see —
+You drool slightly, yes, I see,
 But somehow that’s still cute to me.
 
 {name}, my sleepy little star,
@@ -354,12 +354,12 @@ But somehow never really wrong.
 
 Oh {nickname}, dramatic delight,
 You turn small things into fights.
-Yet five minutes later you smile —
+Yet five minutes later you smile,
 And I forgive you every mile.`,
 
 `{nickname}, you steal the remote control,
 Flip channels like it’s your goal.
-You claim you’re always right —
+You claim you’re always right,
 Which we both know isn’t quite.
 
 {name}, you stubborn little flame,
@@ -374,7 +374,7 @@ Then calm down when the phone rings.
 
 Oh {nickname}, adorable disaster,
 My heartbeat goes faster and faster.
-You’re the chaos I didn’t plan —
+You’re the chaos I didn’t plan,
 But now I can’t live without you, man.`,
 
 `{nickname}, you make weird noises randomly,
@@ -409,12 +409,12 @@ You’re still ridiculously cute.`,
 
 `{name}, you start projects you never finish,
 Then act like that's your image.
-You say “five minutes” — it’s an hour,
+You say “five minutes”, it’s an hour,
 Yet somehow still hold power.
 
 Oh {nickname}, chaotic brain,
 You drive me slightly insane.
-But honestly, that’s the charm —
+But honestly, that’s the charm,
 You’re my adorable alarm.`,
 
 `{nickname}, you hum off-key songs,
@@ -439,7 +439,7 @@ I’ll reload forever though.`,
 
 `{nickname}, you can’t decide on food,
 Change your mind in every mood.
-“Anything is fine,” you say —
+“Anything is fine,” you say,
 Then reject choices all day.
 
 {name}, my indecisive queen/king,
@@ -457,14 +457,14 @@ Still my favorite sight.
 Even when you act so wild,
 You’re my forever goofy child.`,
 
-`{nickname}, you say “last episode” — five times,
+`{nickname}, you say “last episode”, five times,
 Ignore all the warning signs.
 You hog the pillow, steal the heat,
 But still make my heart skip a beat.
 
 {name}, my lovable clown,
 You turn bad days upside down.
-If life’s a joke, you’re the punchline —
+If life’s a joke, you’re the punchline,
 And honestly? I’m glad you’re mine.`
   ],
 
@@ -495,7 +495,7 @@ Promise adventure in midnight air.
 With you, rules become suggestions,
 And love becomes delicious confessions.
 
-My daring {nickname}, let’s never behave —
+My daring {nickname}, let’s never behave,
 Let’s write our story brave and wave after wave.`,
 
 `{nickname}, you sparkle like champagne at midnight,
@@ -505,7 +505,7 @@ And suddenly my pulse kicks in.
 
 {name}, you tease like it’s an art,
 Pulling strings around my heart.
-If love’s a game, then you play fair —
+If love’s a game, then you play fair,
 By stealing kisses out of thin air.`,
 
 `Hey {name}, you wink and I forget my plan,
@@ -513,7 +513,7 @@ My cool composure? Gone, I ran.
 You walk like trouble wrapped in charm,
 A gentle storm with a warm alarm.
 
-Oh {nickname}, don’t act so sweet —
+Oh {nickname}, don’t act so sweet,
 You know exactly how hearts skip a beat.
 And every time you say my name,
 You fan a mischievous little flame.`,
@@ -525,7 +525,7 @@ And smile like you meant it heavily.
 
 {name}, you’re sunshine chaos combined,
 Sweet temptation beautifully designed.
-If falling’s wrong, I won’t resist —
+If falling’s wrong, I won’t resist,
 Especially not your stolen kiss.`,
 
 `{name}, you nudge me just to see me blush,
@@ -535,7 +535,7 @@ And honestly? I love it too much.
 
 My daring {nickname}, bold and sly,
 You sparkle when you catch my eye.
-Let’s stay up late and break curfew —
+Let’s stay up late and break curfew,
 Invent new ways to say “I choose you.”`,
 
 `{nickname}, you lean too close,
@@ -546,7 +546,7 @@ Every tiny secret romance.
 
 {name}, you dance around my guard,
 Making it hard to play it hard.
-If you’re the spark, I’m the flame —
+If you’re the spark, I’m the flame,
 Let’s set the night on fire again.`,
 
 `{name}, you challenge me with that grin,
@@ -556,17 +556,17 @@ Whisper something only I can hear.
 
 Oh {nickname}, playful and wild,
 Half rebellion, half soft child.
-If love is daring, let’s be bold —
+If love is daring, let’s be bold,
 Rewrite the rules we’ve been told.`,
 
 `{nickname}, you bite your lip like that,
 And expect my heart to stay intact?
-You toss your hair, pretend you're shy —
+You toss your hair, pretend you're shy,
 But your eyes give you away every time.
 
 {name}, you are delicious trouble,
 Making my steady heartbeat double.
-Let’s flirt forever, never behave —
+Let’s flirt forever, never behave,
 Be sweet, be wild, be brave.`,
 
 `{name}, you laugh and pull me in,
@@ -576,7 +576,7 @@ Then act surprised when I chase.
 
 Oh {nickname}, electric delight,
 My favorite spark in the night.
-If mischief had a perfect face —
+If mischief had a perfect face,
 It would be yours in close embrace.`,
 
 `{nickname}, you tease like you breathe it,
@@ -586,17 +586,17 @@ Then dare my heart to make a move.
 
 {name}, you’re danger dressed in sweet,
 A rhythm my pulse can’t defeat.
-If we’re dancing on the line —
+If we’re dancing on the line,
 Let’s blur it beautifully, mine and thine.`,
 
 `{name}, you send that look across the room,
 And suddenly everything blooms.
-You don’t even have to say a word —
+You don’t even have to say a word,
 Yet every silent promise is heard.
 
 Sweet {nickname}, playful flame,
 You make flirting feel like a game.
-And honestly? I’ll lose on purpose —
+And honestly? I’ll lose on purpose,
 If it means you stay close to us.`,
 
 `{nickname}, you bump my shoulder lightly,
@@ -606,7 +606,7 @@ Making sure I’m still aligned.
 
 {name}, you know exactly what you do,
 And I pretend I don’t see through.
-But let’s be honest — it’s divine,
+But let’s be honest, it’s divine,
 This little dance of yours and mine.`,
 
 `{name}, you whisper “come here” like a dare,
@@ -616,7 +616,7 @@ Knowing my defenses aren’t enough.
 
 Oh {nickname}, bold and sweet,
 You make temptation taste complete.
-If this is trouble, I’ll sign the sheet —
+If this is trouble, I’ll sign the sheet,
 Right where your heartbeat meets mine’s beat.`,
 
 `{nickname}, you lean into my side,
@@ -626,7 +626,7 @@ And act like you don’t already know.
 
 {name}, you’re playful poetry,
 Mischief wrapped in chemistry.
-And if sparks fly when we’re near —
+And if sparks fly when we’re near,
 Let’s call it love without the fear.`,
 
 `{name}, you challenge every stare,
@@ -635,7 +635,7 @@ You tilt your chin, pretend to pout,
 Just to see if I’ll figure it out.
 
 Oh {nickname}, fearless and bright,
-You turn every day into a night —
+You turn every day into a night,
 Where laughter, teasing, breathless air,
 Become the language that we share.`,
 
@@ -646,12 +646,12 @@ When you brush against my soul.
 
 {name}, you are playful fire,
 Fueling every soft desire.
-Let’s keep this tension beautifully sweet —
+Let’s keep this tension beautifully sweet,
 A game where both hearts gladly cheat.`,
 
 `{name}, you call me out, then pull me close,
 You love the thrill of almost-close.
-You look away, then look again —
+You look away, then look again,
 And I’m caught somewhere between.
 
 Sweet {nickname}, sly and bright,
@@ -666,7 +666,7 @@ Then watch my heartbeat amplify.
 
 {name}, you’re joy in motion,
 A soft explosion of devotion.
-Let’s flirt until we lose the line —
+Let’s flirt until we lose the line,
 Between “just playing” and “you’re mine.”`,
 
 `{name}, you laugh like you’ve already won,
@@ -676,17 +676,17 @@ Then smile like you lit the dark.
 
 Oh {nickname}, wild delight,
 My favorite rush, my favorite sight.
-If loving you feels slightly mad —
+If loving you feels slightly mad,
 Then madness never felt this glad.`,
 
 `{nickname}, you steal my breath with ease,
 Then blame it on the breeze.
-You act surprised when I pull near —
+You act surprised when I pull near,
 But your eyes make everything clear.
 
 {name}, you’re daring and divine,
 A playful twist of fate and wine.
-Let’s keep the tension sweet and slow —
+Let’s keep the tension sweet and slow,
 A secret only we both know.`,
 
 `{name}, you start a spark with just a glance,
@@ -696,7 +696,7 @@ Like love is something we both win.
 
 My playful {nickname}, bright and bold,
 A story too electric to be told.
-If life’s a stage, then let’s perform —
+If life’s a stage, then let’s perform,
 A romance wild, warm, and warm.`
   ],
 
@@ -728,7 +728,7 @@ I rest inside your quiet strength,
 Knowing forever isn’t too long a length.
 
 And if the world grows loud again,
-I’ll return to your arms — my amen.`,
+I’ll return to your arms, my amen.`,
 
 `{name}, your touch feels like quiet rain,
 Soft enough to heal my pain.
@@ -747,7 +747,7 @@ You simply hold my trembling hand.
 
 {name}, in your calm I slowly mend,
 In your warmth, my fears suspend.
-Loving you feels soft and true —
+Loving you feels soft and true,
 Like home was always meant to be you.`,
 
 `{name}, your voice lowers every storm,
@@ -782,7 +782,7 @@ To trust, to rest, to simply mend.`,
 
 `Sweet {nickname}, when you speak my name,
 It feels like comfort without shame.
-No pressure, no fear, no disguise —
+No pressure, no fear, no disguise,
 Just quiet truth behind your eyes.
 
 {name}, you make the chaos cease,
@@ -797,12 +797,12 @@ A love that’s patient, kind, and pure.
 
 My precious {nickname}, you remind
 My guarded heart to be unconfined.
-With you, I’m safe to simply be —
+With you, I’m safe to simply be,
 Unarmored, open, honestly.`,
 
 `{nickname}, your laughter isn’t loud,
 Yet it lifts me from the crowd.
-You don’t overwhelm or demand —
+You don’t overwhelm or demand,
 You gently reach and take my hand.
 
 {name}, loving you feels slow and true,
@@ -822,7 +822,7 @@ And I can leave my fears behind.`,
 
 `Dear {nickname}, your love is slow,
 Not hurried, not meant to show.
-It lives in little, quiet things —
+It lives in little, quiet things,
 In how you care, in how you bring
 
 Warmth to moments cold and small,
@@ -832,7 +832,7 @@ What gentle love was meant to be.`,
 
 `{name}, your presence feels like spring,
 A subtle shift in everything.
-You don’t force the flowers wide —
+You don’t force the flowers wide,
 You wait until they bloom inside.
 
 Sweet {nickname}, patient and true,
@@ -847,17 +847,17 @@ And make the distant feel clear.
 
 {name}, your love is never loud,
 But it stands taller than the crowd.
-In you, I’ve found a gentle flame —
+In you, I’ve found a gentle flame,
 A steady warmth that stays the same.`,
 
 `{name}, your hands are safe and warm,
 A shelter in the fiercest storm.
-You don’t promise skies won’t fall —
+You don’t promise skies won’t fall,
 You just stand firm through it all.
 
 Oh {nickname}, loving you feels light,
 Like burdens fading out of sight.
-In your embrace, I finally see —
+In your embrace, I finally see,
 What it means to feel free.`,
 
 `{nickname}, your kindness runs so deep,
@@ -892,17 +892,17 @@ Letting every fear drift away.`,
 
 `{name}, when I tremble, you hold firm,
 When I doubt, you help me learn.
-You don’t fix me with loud decree —
+You don’t fix me with loud decree,
 You sit beside and steady me.
 
 Oh {nickname}, my quiet strength,
 Loving you feels full at length.
-No rush, no fear, no disguise —
+No rush, no fear, no disguise,
 Just warmth reflected in your eyes.`,
 
 `{nickname}, your touch is soft but sure,
 A steady promise to endure.
-You don’t ask me to be less —
+You don’t ask me to be less,
 You love me fully, no address.
 
 {name}, in your calm embrace,
@@ -912,12 +912,12 @@ With you, my heart will gently mend.`,
 
 `{name}, your love is simple and real,
 A steady rhythm I can feel.
-No drama, no dramatic flame —
+No drama, no dramatic flame,
 Just quiet truth that stays the same.
 
 Sweet {nickname}, safe and near,
 You make the future feel clear.
-And in your arms, I understand —
+And in your arms, I understand,
 Love was meant to be this calm, this planned.`,
 
 `{nickname}, you wrap your arms around my fears,
@@ -927,7 +927,7 @@ In steady breath and gentle hush.
 
 {name}, if love had steady hands,
 It would move the way you stand.
-Soft yet strong, warm yet free —
+Soft yet strong, warm yet free,
 You are the peace inside of me.`
   ]
 }

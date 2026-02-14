@@ -448,7 +448,7 @@ function ResultsContent() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-[radial-gradient(circle_at_top_center,#1a103c_0%,#0a0e17_100%)] px-6">
 
-      <div className="max-w-md w-full">
+      <div className="max-w-md w-full mt-10">
         <Card text={isSharedView ? poem : displayed} />
       </div>
 

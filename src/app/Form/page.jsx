@@ -28,14 +28,15 @@ export default function Page() {
     }
 
     return (
-        <div className='relative min-h-screen flex items-center justify-center bg-[radial-gradient(circle_at_top_center,#1a103c_0%,#0a0e17_100%)]'>
+        <div className='relative min-h-screen flex px-6 sm:px-0 items-center justify-center bg-[radial-gradient(circle_at_top_center,#1a103c_0%,#0a0e17_100%)]'>
 
             <FaRegStar className='absolute top-10 left-20 text-white animate-bounce opacity-70' />
             <FaRegStar className='absolute top-10 left-20 text-white text-xl animate-bounce opacity-70' />
             <FaRegStar className='absolute top-1/4 left-1/4 text-purple-300 text-lg animate-pulse opacity-70' />
-            <FaRegStar className='absolute bottom-20 right-32 text-purple-200 text-lg animate-pulse opacity-70' />
+            {/* <FaRegStar className='absolute bottom-20 right-32 text-purple-200 text-lg animate-pulse opacity-70' />
             <FaRegStar className='absolute top-1/3 right-48 text-yellow-200 text-xs animate-ping opacity-70' />
-            <FaRegStar className='absolute bottom-1/4 left-1/3 text-blue-200 text-lg animate-bounce opacity-70' />
+            <FaRegStar className='absolute bottom-1/4 left-1/3 text-blue-200 text-lg animate-bounce opacity-70' /> */}
+            
 
             <div className="relative w-full max-w-md px-6 py-12 rounded-3xl bg-white/5 backdrop-blur-xl border border-white/10">
 
