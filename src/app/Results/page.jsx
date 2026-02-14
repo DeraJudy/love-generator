@@ -364,19 +364,38 @@ function ResultsContent() {
   }
 
   const downloadCard = async () => {
-    const element = document.getElementById("capture-card")
-    if (!element) return
+  const element = document.getElementById("capture-card")
+  if (!element) return
 
-    const canvas = await html2canvas(element, {
-      backgroundColor: null,
-      scale: 2,
-    })
+  // Clone the node to avoid modifying real UI
+  const clone = element.cloneNode(true)
 
-    const link = document.createElement("a")
-    link.download = "love-poem.png"
-    link.href = canvas.toDataURL()
-    link.click()
-  }
+  // Force safe background color (NO gradients)
+  clone.style.background = form?.color || "#ec4899"
+
+  // Remove any backdrop/filter that may use oklab
+  clone.style.filter = "none"
+  clone.style.backdropFilter = "none"
+
+  clone.style.position = "fixed"
+  clone.style.top = "-9999px"
+  clone.style.left = "-9999px"
+
+  document.body.appendChild(clone)
+
+  const canvas = await html2canvas(clone, {
+    backgroundColor: null,
+    scale: 3,
+    useCORS: true,
+  })
+
+  document.body.removeChild(clone)
+
+  const link = document.createElement("a")
+  link.download = "love-poem.png"
+  link.href = canvas.toDataURL("image/png")
+  link.click()
+}
 
   const copyLink = async () => {
     const encodedPoem = encodeURIComponent(poem)
@@ -396,7 +415,7 @@ function ResultsContent() {
       style={{
         background: `linear-gradient(145deg, ${form?.color || "#ec4899"}, #ffffff22)`
       }}
-      className="relative py-10 px-6 rounded-3xl shadow-2xl text-center w-full"
+      className="relative py-10 px-6 rounded-3xl shadow-2xl text-center w-full bg-pink-700"
     >
       <div className="absolute top-6 left-6 opacity-20 text-xl">💖</div>
       <div className="absolute bottom-32 right-6 opacity-20 text-xl">✨</div>
@@ -466,6 +485,60 @@ function ResultsContent() {
           <button onClick={copyLink} className="w-full py-2 rounded-lg bg-pink-500 text-white">
             Copy Link
           </button>
+        </div>
+      )}
+
+      {/* HIDDEN DOWNLOAD CARD */}
+      {!isSharedView && (
+        <div
+          style={{ position: "fixed", left: "-9999px", top: 0, background: `linear-gradient(145deg, ${form?.color || "#ec4899"}, #ffffff22)` }}>
+          <div
+            id="capture-card"
+            style={{
+              width: "1080px",
+              padding: "120px",
+              background: `linear-gradient(145deg, ${form?.color || "#ec4899"}, #ffffff22)` ,
+              borderRadius: "40px",
+              textAlign: "center",
+              boxShadow: "0 0 100px rgba(0,0,0,0.2)",
+            }}
+          >
+            <div className="absolute top-6 left-6 opacity-10 text-xl">💖</div>
+            <div className="absolute bottom-32 right-6 text-xl">✨</div>
+            <div className="absolute top-10 right-10 text-3xl">🌙</div>
+
+            <h1
+              style={{
+                color: "#ffffff",
+                fontSize: "60px",
+                letterSpacing: "4px",
+                marginBottom: "20px",
+                textTransform: "uppercase",
+              }}
+            >
+              {form?.name}
+            </h1>
+
+            <div
+              style={{
+                height: "2px",
+                width: "100%",
+                background: "rgba(255,255,255,0.5)",
+                margin: "50px 0",
+              }}
+            />
+
+            <p
+              style={{
+                color: "#ffffff",
+                fontSize: "42px",
+                lineHeight: "1.6",
+                whiteSpace: "pre-line",
+              }}
+            >
+              {poem}
+            </p>
+          </div>
         </div>
       )}
 
